@@ -1,7 +1,7 @@
 module github.com/dfuse-io/eosws-go
 
 require (
-	github.com/eoscanada/eos-go v0.8.5
+	github.com/FSharesSaaS/fshares.fsgo v0.9.4 // indirect
 	github.com/gorilla/websocket v1.4.0
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/stretchr/testify v1.3.0

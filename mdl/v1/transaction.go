@@ -3,8 +3,8 @@ package mdl
 import (
 	"encoding/json"
 
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
+	eos "github.com/FSharesSaaS/fshares.fsgo"
+	"github.com/FSharesSaaS/fshares.fsgo/ecc"
 )
 
 // TransactionTrace maps to a `transaction_trace` in `chain/trace.hpp`
